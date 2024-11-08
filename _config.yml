@@ -90,7 +90,7 @@ publication_category:
 collections:
   datacode:
     output: true
-    permalink: /:collection/:name/
+    permalink: /datacode/
 
 
 # Site Settings
