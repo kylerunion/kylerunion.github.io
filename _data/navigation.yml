@@ -11,8 +11,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Data and Code"
+    url: /datacode/
         
   - title: "Blog Posts"
     url: /year-archive/
