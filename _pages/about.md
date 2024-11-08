@@ -33,8 +33,8 @@ Remote Sensing
 ![Image from Landsat](/images/remote_sensing.jpg)
 
 Data Science
-![Snoqualmie Pass, WA](/images/tree.jph)
+![Snoqualmie Pass, WA](/images/tree.jpg)
 
 Global Change
-![Santa Elena Canyon, TX](/santa_elena/jpg)
+![Santa Elena Canyon, TX](/santa_elena.jpg)
 
