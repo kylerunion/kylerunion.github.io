@@ -83,7 +83,16 @@ publication_category:
   thesis:
     title: 'Thesis'
 
+    
+
 # Data and Code Category - The following the list of data and code categories and their headings
+
+collections:
+  datacode:
+    output: true
+    permalink: /:collection/:name/
+
+
 datacode_category:
   data:
     title: 'Datasets'    
