@@ -2,7 +2,7 @@
 title: "Capturing spatiotemporal variation in salt marsh belowground biomass, a key resilience metric, through geoinformatics."
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1101/2024.09.16.613282
+permalink: publications/2024-09-20-Capturing-Spatiotemporal
 excerpt: 'This is a preprint of our efforts to describe variability in salt marsh productivity and advance a belowground biomass prediction model.'
 date: 2024-09-20
 venue: 'biorXiv'
