@@ -2,7 +2,7 @@
 title: "Beneficial Use Decision Support for Wetlands: Case Study for Mobile Bay, Alabama"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](https://doi.org/10.1061/(ASCE)WW.1943-5460.0000650)
+permalink: /publication/2009-10-01-paper-title-number-1](https://doi.org/10.1061/(ASCE)WW.1943-5460.0000650
 excerpt: 'This paper is about understanding the need for wetland restoration and pairing opportunities with available resources.'
 date: 2021-06-16
 venue: 'Journal of Waterway, Port, Coastal, and Ocean Engineering'
