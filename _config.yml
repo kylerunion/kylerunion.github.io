@@ -82,10 +82,6 @@ publication_category:
     title: 'Reports'
   thesis:
     title: 'Thesis'
-  data:
-    title: 'Datasets'
-  code:
-    title: 'Code'
 
 # Data and Code Category - The following the list of data and code categories and their headings
 datacode_category:
