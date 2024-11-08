@@ -11,8 +11,5 @@ main:
   - title: "Talks"
     url: /talks/    
         
-  - title: "Research Experience"
-    url: /research/
-    
   - title: "CV"
     url: /cv/
