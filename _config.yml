@@ -82,14 +82,11 @@ publication_category:
     title: 'Reports'
   thesis:
     title: 'Thesis'
+  data:
+    title: 'Datasets'
+  code:
+    title: 'Code'
 
-    
-
-# Data and Code Category - The following the list of data and code categories and their headings
-collections:
-  datacode:
-    output: true
-    permalink: /:collection/:path/
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
