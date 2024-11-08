@@ -1,29 +1,6 @@
 ---
 layout: archive
-title: "datacode"
+title: "Data and Code"
 permalink: /datacode/
 author_profile: true
 ---
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.datacode_category %}
-  {% for category in site.datacode_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.datacode reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.datacode reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
