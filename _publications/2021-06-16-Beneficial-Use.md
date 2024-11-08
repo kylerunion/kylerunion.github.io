@@ -8,7 +8,7 @@ date: 2021-06-16
 venue: 'Journal of Waterway, Port, Coastal, and Ocean Engineering'
 slidesurl: 'http://kylerunion.github.io/files/2021_asbpa_runion.pdf'
 paperurl: 'http://kylerunion.github.io/files/2021_beneficial_use.pdf'
-citation: '1. Runion KD, Boyd BM, Piercy CD, Morris JT. (2021). &quot; Beneficial Use Decision Support for Wetlands: Case Study for Mobile Bay, Alabama.&quot; <i>Journal of Waterway, Port, Coastal, and Ocean Engineering</i>. 1.'
+citation: '1. Runion KD, Boyd BM, Piercy CD, Morris JT. (2021). &quot; Beneficial Use Decision Support for Wetlands: Case Study for Mobile Bay, Alabama.&quot; <i>Journal of Waterway, Port, Coastal, and Ocean Engineering</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
