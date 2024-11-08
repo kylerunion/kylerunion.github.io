@@ -6,7 +6,7 @@ permalink: /datacode/berm_data_2024
 excerpt: 'This is a dataset of salt marsh productivity metrics collected along the Georgia coast from  2022 to 2024.'
 date: 2024-01-20
 venue: 'Environmental Data Initiative'
-paperurl: '10.6073/pasta/4a0b715104849d98320fcc34e7cd63a4'
+paperurl: 'https://gce-lter.marsci.uga.edu/public/app/dataset_details.asp?accession=PLT-GCET-2308'
 citation: 'Runion, KD. 2023. &quot;Spartina alterniflora marsh vegetation data along the Georgia coast used in the Belowground Ecosystem Resiliency Model version 2.0.&quot; <i>Georgia Coastal Ecosystems LTER Project, University of Georgia, Long Term Ecological Research Network.</i> http://dx.doi.org/10.6073/pasta/4a0b715104849d98320fcc34e7cd63a4'
 
 ---
