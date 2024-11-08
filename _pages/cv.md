@@ -11,34 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Marine Science, University of Texas at Austin, 2025 (expected)
+* M.S. in Marine Science, University of Delaware, 2019
+* B.S. in Environmental Science, University of Maryland, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2019 to Spring 2021: Research Fellow
+  * U.S. Army Corps of Engineers, Research and Development Center
+  * Supervisor: Dr. Brandon Boyd
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015 to Fall 2017: Environmental Management Fellow
+  * Chesapeake Research Consortium
+  * Supervisor: Jennifer Greiner
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Data and Software
+  * R
+  * GIS
+  * GitHub 
+* Ecology
+  * Salt Marshes
+  * Remote Sensing
+  * Geospatial Analyses
 * Skill 3
 
 Publications
@@ -53,12 +49,11 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Grants and Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* NASA FINESST, 2023-2026. "BERM, a geospatial informatics approach for estimating coastal marsh blue carbon and vulnerability to sea level rise." $150,000.
+* NOAA Davidson, 2022-2024. "Assessing tidal salt marsh resilience to global change as a consequence of water quality, drought, and sea level rise impacts on belowground plant productivity." $102,436.
+ 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
