@@ -16,9 +16,6 @@ url                      : https://kylerunion.github.io # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kylerunion/kylerunion.github.io"
 remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -180,7 +177,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
-  - assets/js/plugins
+  - assets/js/
   - assets/js/vendor
   - CHANGELOG
   - Capfile
@@ -318,6 +315,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Mimic GitHub Pages with --safe
 whitelist:
