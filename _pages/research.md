@@ -16,7 +16,7 @@ author_profile: true
 
 ======
 **Salt Marsh** evolution in shifting baselines
-![Sapelo Island, GA](/images/salt_marsh.jpg)
+![Sapelo Island, GA](/images/salt_marsh.jpg){: width="300"}
 
 **Plant Productivity** driving ecosystem change
 ![*Spartina alterniflora*](/images/plant.jpg){: width="50%"}
