@@ -15,17 +15,17 @@ author_profile: true
 
 
 ======
-Salt Marsh evolution in shifting baselines
+**Salt Marsh** evolution in shifting baselines
 ![Sapelo Island, GA](/images/salt_marsh.jpg)
 
-Plant Productivity driving ecosystem change
+**Plant Productivity** driving ecosystem change
 ![*Spartina alterniflora*](/images/plant.jpg){: width="50%"}
 
-Remote Sensing to detect fine-scale variation and build reproducible analyses
+**Remote Sensing** to detect fine-scale variation and build reproducible analyses
 ![Image from Landsat](/images/remote_sensing.jpg)
 
-Data Science to get the most out of our measurements
+**Data Science** to get the most out of our measurements
 ![Snoqualmie Pass, WA](/images/tree.jpg){: width="50%"}
 
-Global Change and how we can better understand and predict Earth conditions
+**Global Change** and how we can better understand and predict Earth conditions
 ![Santa Elena Canyon, TX](/images/santa_elena.jpg)
